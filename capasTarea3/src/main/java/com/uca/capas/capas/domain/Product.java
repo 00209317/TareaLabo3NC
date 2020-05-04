@@ -1,4 +1,4 @@
-package com.uca.capas.domain;
+package com.uca.capas.capas.domain;
 
 public class Product {
 
